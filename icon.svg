@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img">
+  <title>Kế Toán Tập Sự</title>
+  <!-- placeholder until BG-34's logo: a T-account (Nợ | Có) in cream on the game's teal -->
+  <rect width="512" height="512" rx="112" fill="#1f6f6a"/>
+  <g fill="#fffdf7">
+    <rect x="112" y="150" width="288" height="28" rx="14"/>
+    <rect x="242" y="150" width="28" height="230" rx="14"/>
+    <rect x="132" y="220" width="84" height="18" rx="9" opacity="0.8"/>
+    <rect x="132" y="266" width="60" height="18" rx="9" opacity="0.8"/>
+    <rect x="296" y="220" width="84" height="18" rx="9" opacity="0.8"/>
+    <rect x="320" y="266" width="60" height="18" rx="9" opacity="0.8"/>
+  </g>
+  <circle cx="404" cy="96" r="30" fill="#e9a93b"/>
+</svg>
