@@ -1,1 +1,1 @@
-Built from MakingBigStack/BankingGame@13637185e3173b407b623bd8093a257f303dc5bc by https://github.com/MakingBigStack/BankingGame/actions/runs/41810136994
+Built from MakingBigStack/BankingGame@bedb516629c6d4df7bcc48a319aed8c78c394ed6 by https://github.com/MakingBigStack/BankingGame/actions/runs/41815043301
